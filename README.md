@@ -23,6 +23,10 @@ composer update
 ```sh
 php artisan serve
 ```
-To test the services Postman application can be used. 
+To test the services Postman application can be used. Use below link to import the Postman Collection
+
+```sh
+https://www.getpostman.com/collections/2a976b79467869fb85aa
+```
 
 
